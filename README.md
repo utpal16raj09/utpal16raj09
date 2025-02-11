@@ -15,7 +15,7 @@ Hi, I am Utpal Raj ✌️<br>Rookie programmer 🥸<br>Diving into programming &
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=utpal16raj09&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
