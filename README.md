@@ -1,32 +1,101 @@
-# About Me 
-Hi, I am Utpal Raj ✌️<br>Rookie programmer 🥸<br>Diving into programming & web dev.<br>Ready to turn chaos into code! 💻⚡
+<div align="center">
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utpalraj0916/) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Utpal-Raj) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:utpalraj1609@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/raj_1609utpal/)  
-[![CodeStudio](https://img.shields.io/badge/Code360-DD6C00?style=flat&logo=code&logoColor=white)](https://www.naukri.com/code360/profile/raj_utpal1609)  
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-14a800?style=flat&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/utpalraxs5e/)
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=utpal16raj09&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=utpal16raj09&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=utpal16raj09&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=utpal16raj09&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=utpal16raj09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1>Hi, I'm Utpal Raj ✌️</h1>
+<h3>A programmer exploring the worlds of web development and software engineering.</h3>
+<p>Ready to turn chaos into code! 💻⚡</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=utpal16raj09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>Platforms & Profiles</h2>
+<table width="100%" cellpadding="10">
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://www.linkedin.com/in/utpalraj0916/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
+      </a>
+      <br><strong>LinkedIn</strong>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://leetcode.com/u/raj_1609utpal/" target="_blank">
+        <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" width="120" alt="LeetCode" />
+      </a>
+      <br><strong>LeetCode</strong>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.naukri.com/code360/profile/raj_utpal1609" target="_blank">
+        <img src="https://img.shields.io/badge/Code360-282828?style=for-the-badge&logo=CodingNinjas&logoColor=DD6C00" alt="Code360" />
+      </a>
+      <br><strong>Code360</strong>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.geeksforgeeks.org/user/utpalraxs5e/" target="_blank">
+        <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" width="120" alt="GeeksforGeeks" />
+      </a>
+      <br><strong>GeeksforGeeks</strong>
+    </td>
+    <td align="center" width="20%">
+      <a href="mailto:utpalraj1609@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      </a>
+      <br><strong>Email Me</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2>Languages & Tools</h2>
+<table width="100%" cellpadding="10">
+  <tr>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" /><br><strong>C</strong></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br><strong>C++</strong></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br><strong>Java</strong></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br><strong>Python</strong></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /><br><strong>HTML5</strong></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /><br><strong>CSS3</strong></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br><strong>JavaScript</strong></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="SQL" /><br><strong>SQL</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br><strong>Git</strong></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" /><br><strong>TensorFlow</strong></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br><strong>NumPy</strong></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" /><br><strong>OpenCV</strong></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn" /><br><strong>Scikit-learn</strong></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" /><br><strong>Figma</strong></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /><br><strong>Pandas</strong></td>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" /><br><strong>PyTorch</strong></td>
+  </tr>
+</table>
+
+---
+
+<h2>GitHub Activity</h2>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=utpal16raj09&theme=gruvbox_dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utpal16raj09&theme=gruvbox_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utpal16raj09&theme=gruvbox_dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utpal16raj09&bg_color=282828&color=b8bb26&line=b8bb26&point=b8bb26&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h2>Trophies</h2>
+      <p><img src="https://github-profile-trophy.vercel.app/?username=utpal16raj09&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/></p>
+    </td>
+    <td width="35%" valign="top">
+      <h2>Quote of the Day</h2>
+      <p><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Quote of the day"/></p>
+    </td>
+  </tr>
+</table>
+
+
+</div>
