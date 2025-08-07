@@ -86,9 +86,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utpal16raj09&theme=gruvbox_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utpal16raj09&theme=gruvbox_dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-<p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=utpal16raj09&bg_color=282828&color=b8bb26&line=b8bb26&point=b8bb26&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
