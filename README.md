@@ -69,12 +69,15 @@
 </table>
 
 ---
+
+<!-- LeetCode Heatmap Section -->
 <h2>LeetCode Heatmap</h2>
 <p align="center">
   <a href="https://leetcode.com/u/raj_1609utpal/">
-    <img src="profile/leetcode_matrix.svg" alt="Utpal Raj's LeetCode Heatmap"/>
+    <img src="https://leetcard.jacoblin.cool/raj_1609utpal?ext=heatmap&theme=dark" alt="LeetCode Heatmap"/>
   </a>
 </p>
+
 ---
 
 <h2>GitHub Activity</h2>
