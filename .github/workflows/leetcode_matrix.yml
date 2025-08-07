@@ -1,0 +1,22 @@
+name: LeetCode Matrix Generator
+
+on:
+  # Run this workflow automatically every day at midnight UTC
+  schedule:
+    - cron: '0 0 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: LeetCode Matrix Action
+        uses: sagar-viradiya/LeetCode-Matrix-Action@v2.2.0
+        with:
+          LEETCODE_USER_NAME: "raj_1609utpal"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DESTINATION_FOLDER: 'profile'
